@@ -11,6 +11,11 @@ I design and build fast, responsive and bilingual (Arabic / English) web apps �
 - 🌙 **[Maison Sahar](https://github.com/reemsalahdev/maison-sahar)** — luxury Arabic perfume store (vanilla JS concept) · [live](https://reemsalahdev.github.io/maison-sahar/)
 - 🧠 **[GazaKidMindCanvas](https://github.com/reemsalahdev/GazaKidMindCanvas)** — graduation project: AI platform that analyzes children's drawings to support the mental health of children in Gaza
 
+**👩‍💻 Team projects**
+- 🤝 **[Association website](https://github.com/reemsalahdev/rehabilitation-association-website)** — React site for a non-profit in Gaza (Front-End Developer, 2025)
+- 📰 **[News platform](https://github.com/reemsalahdev/news-platform)** — React news site with journalist & reader accounts
+- 🏢 **[Agency website](https://github.com/reemsalahdev/agency-website)** · 🎮 **[JS mini projects](https://github.com/reemsalahdev/js-mini-projects)**
+
 **🎓 Certifications:** Claude Code in Action · Claude Code 101 · AI Fluency (Anthropic) · Responsive Web Design (freeCodeCamp) · UI/UX Principles & Design (Edraak)
 
 **📫 Let's work together:** open to freelance projects and remote roles — [LinkedIn](https://www.linkedin.com/in/reem-abd-alqader-525052326/)
