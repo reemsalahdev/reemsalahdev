@@ -7,6 +7,8 @@ I design and build fast, responsive and bilingual (Arabic / English) web apps �
 
 **✨ Featured work**
 - 🚗 **[AM LIMO](https://github.com/reemsalahdev/am-limo)** — booking website for an airport-transfer company in Belgium · [live](https://am-limo.com)
+- 🏪 **[Jomla Mart](https://github.com/reemsalahdev/jomla-mart-website)** — website + brand identity for a B2B wholesale app in Jordan · [live](https://reemsalahdev.github.io/jomla-mart-website/)
+- 🌙 **[Maison Sahar](https://github.com/reemsalahdev/maison-sahar)** — luxury Arabic perfume store (vanilla JS concept) · [live](https://reemsalahdev.github.io/maison-sahar/)
 - 🧠 **[GazaKidMindCanvas](https://github.com/reemsalahdev/GazaKidMindCanvas)** — graduation project: AI platform that analyzes children's drawings to support the mental health of children in Gaza
 
 **🎓 Certifications:** Claude Code in Action · Claude Code 101 · AI Fluency (Anthropic) · Responsive Web Design (freeCodeCamp) · UI/UX Principles & Design (Edraak)
