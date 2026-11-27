@@ -14,6 +14,9 @@ I design and build fast, responsive and bilingual (Arabic / English) web apps �
 - 📋 **[Flowboard](https://github.com/reemsalahdev/flowboard)** — drag & drop Kanban task manager (React) · [live](https://reemsalahdev.github.io/flowboard/)
 - 🎬 **[CineScope](https://github.com/reemsalahdev/cinescope)** — movie & TV discovery app on the TMDB API (React) · [live](https://reemsalahdev.github.io/cinescope/)
 
+- 💊 **[Medications Directory API](https://github.com/reemsalahdev/medications-directory-api)** — REST API with JWT auth, Swagger docs and validation (Node.js, Express, MongoDB)
+- 💬 **[Pulse](https://github.com/reemsalahdev/pulse-chat)** — real-time chat app (React, Socket.io, Express, PostgreSQL)
+
 **👩‍💻 Team projects**
 - 🤝 **[Association website](https://github.com/reemsalahdev/rehabilitation-association-website)** — React site for a non-profit in Gaza (Front-End Developer, 2025)
 - 📰 **[News platform](https://github.com/reemsalahdev/news-platform)** — React news site with journalist & reader accounts
