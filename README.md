@@ -11,6 +11,9 @@ I design and build fast, responsive and bilingual (Arabic / English) web apps �
 - 🌙 **[Maison Sahar](https://github.com/reemsalahdev/maison-sahar)** — luxury Arabic perfume store (vanilla JS concept) · [live](https://reemsalahdev.github.io/maison-sahar/)
 - 🧠 **[GazaKidMindCanvas](https://github.com/reemsalahdev/GazaKidMindCanvas)** — graduation project: AI platform that analyzes children's drawings to support the mental health of children in Gaza
 
+- 📋 **[Flowboard](https://github.com/reemsalahdev/flowboard)** — drag & drop Kanban task manager (React) · [live](https://reemsalahdev.github.io/flowboard/)
+- 🎬 **[CineScope](https://github.com/reemsalahdev/cinescope)** — movie & TV discovery app on the TMDB API (React) · [live](https://reemsalahdev.github.io/cinescope/)
+
 **👩‍💻 Team projects**
 - 🤝 **[Association website](https://github.com/reemsalahdev/rehabilitation-association-website)** — React site for a non-profit in Gaza (Front-End Developer, 2025)
 - 📰 **[News platform](https://github.com/reemsalahdev/news-platform)** — React news site with journalist & reader accounts
