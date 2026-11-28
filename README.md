@@ -16,6 +16,10 @@ I design and build fast, responsive and bilingual (Arabic / English) web apps �
 
 - 💊 **[Medications Directory API](https://github.com/reemsalahdev/medications-directory-api)** — REST API with JWT auth, Swagger docs and validation (Node.js, Express, MongoDB)
 - 💬 **[Pulse](https://github.com/reemsalahdev/pulse-chat)** — real-time chat app (React, Socket.io, Express, PostgreSQL)
+- 🛍️ **[ShopNest](https://github.com/reemsalahdev/shopnest)** — full-stack e-commerce store with an admin dashboard (React, Express, PostgreSQL, JWT, Stripe test mode)
+
+**🌱 Where I started**
+- 📚 **[FWD course projects (2022)](https://github.com/reemsalahdev/fwd-course-projects)** — my first front-end exercises from the FWD web development track (HTML, CSS, Bootstrap, jQuery)
 
 **👩‍💻 Team projects**
 - 🤝 **[Association website](https://github.com/reemsalahdev/rehabilitation-association-website)** — React site for a non-profit in Gaza (Front-End Developer, 2025)
